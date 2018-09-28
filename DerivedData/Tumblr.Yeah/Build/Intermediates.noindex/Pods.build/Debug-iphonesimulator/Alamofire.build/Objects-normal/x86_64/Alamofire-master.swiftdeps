@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "9e717fc656ad4f8f8077005adf0b30c4"
+build_time: [1537837245, 176595000]
+inputs:
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/AFError.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/Alamofire.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/MultipartFormData.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/Notifications.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/ParameterEncoding.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/Request.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/Response.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/ResponseSerialization.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/Result.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/SessionDelegate.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/SessionManager.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/TaskDelegate.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/Timeline.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/Validation.swift": [1537828535, 0]

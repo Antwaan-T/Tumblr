@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "4bcd20703d904cf81987668568e045d5"
+build_time: [1537837253, 362174000]
+inputs:
+  "/Users/user143130/Desktop/Tumblr.Yeah/PhotosViewController.swift": !dirty [1537835607, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Tumblr.Yeah/PhotoViewController.swift": !dirty [1537828538, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Tumblr.Yeah/AppDelegate.swift": [1537824312, 0]

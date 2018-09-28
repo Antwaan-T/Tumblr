@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "8cc3ffa66091f7baec79806f302fa6ca"
+build_time: [1538167015, 520997000]
+inputs:
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/AlamofireImage/Source/AFIError.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/AlamofireImage/Source/Image.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/AlamofireImage/Source/ImageCache.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/AlamofireImage/Source/ImageDownloader.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/AlamofireImage/Source/ImageFilter.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [1537828535, 0]
+  "/Users/user143130/Desktop/Tumblr.Yeah/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [1537828535, 0]

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>391E581B-0A07-462A-888E-6B9C5582CAD9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>391E581B-0A07-462A-888E-6B9C5582CAD9.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tumblr.Yeah project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tumblr.Yeah</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Tumblr.Yeah</string>
+			<key>timeStartedRecording</key>
+			<real>559859931.41073501</real>
+			<key>timeStoppedRecording</key>
+			<real>559859970.61516905</real>
+			<key>title</key>
+			<string>Debug Tumblr.Yeah</string>
+			<key>uniqueIdentifier</key>
+			<string>391E581B-0A07-462A-888E-6B9C5582CAD9</string>
+		</dict>
+		<key>52E3EB0C-A702-44C3-9441-B417CBF088EF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>52E3EB0C-A702-44C3-9441-B417CBF088EF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tumblr.Yeah project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tumblr.Yeah</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Tumblr.Yeah</string>
+			<key>timeStartedRecording</key>
+			<real>559859670.58522797</real>
+			<key>timeStoppedRecording</key>
+			<real>559859721.958956</real>
+			<key>title</key>
+			<string>Debug Tumblr.Yeah</string>
+			<key>uniqueIdentifier</key>
+			<string>52E3EB0C-A702-44C3-9441-B417CBF088EF</string>
+		</dict>
+		<key>964B88D7-02F9-410E-841F-A5A3D6906537</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>964B88D7-02F9-410E-841F-A5A3D6906537.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tumblr.Yeah project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tumblr.Yeah</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Tumblr.Yeah</string>
+			<key>timeStartedRecording</key>
+			<real>559859589.77521098</real>
+			<key>timeStoppedRecording</key>
+			<real>559859668.30815601</real>
+			<key>title</key>
+			<string>Debug Tumblr.Yeah</string>
+			<key>uniqueIdentifier</key>
+			<string>964B88D7-02F9-410E-841F-A5A3D6906537</string>
+		</dict>
+		<key>DC0C33B3-E951-48D8-8394-F43F733AACED</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DC0C33B3-E951-48D8-8394-F43F733AACED.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tumblr.Yeah project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tumblr.Yeah</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Tumblr.Yeah</string>
+			<key>timeStartedRecording</key>
+			<real>559859789.99792302</real>
+			<key>timeStoppedRecording</key>
+			<real>559859809.57475996</real>
+			<key>title</key>
+			<string>Debug Tumblr.Yeah</string>
+			<key>uniqueIdentifier</key>
+			<string>DC0C33B3-E951-48D8-8394-F43F733AACED</string>
+		</dict>
+		<key>E7216BD0-2572-4339-9697-F0745930B020</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E7216BD0-2572-4339-9697-F0745930B020.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tumblr.Yeah project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tumblr.Yeah</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Tumblr.Yeah</string>
+			<key>timeStartedRecording</key>
+			<real>559859725.68833899</real>
+			<key>timeStoppedRecording</key>
+			<real>559859786.03796005</real>
+			<key>title</key>
+			<string>Debug Tumblr.Yeah</string>
+			<key>uniqueIdentifier</key>
+			<string>E7216BD0-2572-4339-9697-F0745930B020</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
