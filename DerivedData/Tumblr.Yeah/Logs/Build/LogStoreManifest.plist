@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>07282E48-F8A2-4DC3-B26A-CE4C454B744A</key>
+		<key>83480429-A1CB-4BA0-BD9E-5CCC82992662</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,36 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>07282E48-F8A2-4DC3-B26A-CE4C454B744A.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>Tumblr.Yeah project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Tumblr.Yeah</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Build Tumblr.Yeah</string>
-			<key>timeStartedRecording</key>
-			<real>559859115.98991001</real>
-			<key>timeStoppedRecording</key>
-			<real>559859123.81137097</real>
-			<key>title</key>
-			<string>Build Tumblr.Yeah</string>
-			<key>uniqueIdentifier</key>
-			<string>07282E48-F8A2-4DC3-B26A-CE4C454B744A</string>
-		</dict>
-		<key>19F11D67-67FE-4AC6-8D18-60C20FBFCD78</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>19F11D67-67FE-4AC6-8D18-60C20FBFCD78.xcactivitylog</string>
+			<string>83480429-A1CB-4BA0-BD9E-5CCC82992662.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -56,15 +27,15 @@
 			<key>signature</key>
 			<string>Build Tumblr.Yeah</string>
 			<key>timeStartedRecording</key>
-			<real>559859973.59856904</real>
+			<real>565910600.36701405</real>
 			<key>timeStoppedRecording</key>
-			<real>559859974.39185202</real>
+			<real>565910601.31068301</real>
 			<key>title</key>
 			<string>Build Tumblr.Yeah</string>
 			<key>uniqueIdentifier</key>
-			<string>19F11D67-67FE-4AC6-8D18-60C20FBFCD78</string>
+			<string>83480429-A1CB-4BA0-BD9E-5CCC82992662</string>
 		</dict>
-		<key>2DBDD874-D5A0-495F-9D7C-F6B57DDAA918</key>
+		<key>F8253185-B80F-48DC-9604-336B09B56B1E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -73,36 +44,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2DBDD874-D5A0-495F-9D7C-F6B57DDAA918.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>E</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>Tumblr.Yeah project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Tumblr.Yeah</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Build Tumblr.Yeah</string>
-			<key>timeStartedRecording</key>
-			<real>559716974.22245502</real>
-			<key>timeStoppedRecording</key>
-			<real>559716978.44665003</real>
-			<key>title</key>
-			<string>Build Tumblr.Yeah</string>
-			<key>uniqueIdentifier</key>
-			<string>2DBDD874-D5A0-495F-9D7C-F6B57DDAA918</string>
-		</dict>
-		<key>413732C6-30CA-4471-8FEF-6127D1D8C685</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>413732C6-30CA-4471-8FEF-6127D1D8C685.xcactivitylog</string>
+			<string>F8253185-B80F-48DC-9604-336B09B56B1E.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>W</string>
 			<key>schemeIdentifier-containerName</key>
@@ -114,216 +56,13 @@
 			<key>signature</key>
 			<string>Build Tumblr.Yeah</string>
 			<key>timeStartedRecording</key>
-			<real>559859723.14080298</real>
+			<real>565910335.54283297</real>
 			<key>timeStoppedRecording</key>
-			<real>559859725.740713</real>
+			<real>565910337.37737</real>
 			<key>title</key>
 			<string>Build Tumblr.Yeah</string>
 			<key>uniqueIdentifier</key>
-			<string>413732C6-30CA-4471-8FEF-6127D1D8C685</string>
-		</dict>
-		<key>448B81B1-27CC-45FC-AA21-C54A960758E5</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>448B81B1-27CC-45FC-AA21-C54A960758E5.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>Tumblr.Yeah project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Tumblr.Yeah</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Clean Tumblr.Yeah</string>
-			<key>timeStartedRecording</key>
-			<real>559859112.99485397</real>
-			<key>timeStoppedRecording</key>
-			<real>559859113.191185</real>
-			<key>title</key>
-			<string>Clean Tumblr.Yeah</string>
-			<key>uniqueIdentifier</key>
-			<string>448B81B1-27CC-45FC-AA21-C54A960758E5</string>
-		</dict>
-		<key>6F112C09-5A47-4CA7-BB80-E9F929A11B3C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>6F112C09-5A47-4CA7-BB80-E9F929A11B3C.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>S</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>Tumblr.Yeah project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Tumblr.Yeah</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Clean Tumblr.Yeah</string>
-			<key>timeStartedRecording</key>
-			<real>559859809.53437901</real>
-			<key>timeStoppedRecording</key>
-			<real>559859809.68103695</real>
-			<key>title</key>
-			<string>Clean Tumblr.Yeah</string>
-			<key>uniqueIdentifier</key>
-			<string>6F112C09-5A47-4CA7-BB80-E9F929A11B3C</string>
-		</dict>
-		<key>8A74FA83-8FDD-4143-96A6-228DFEA2BC1E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>8A74FA83-8FDD-4143-96A6-228DFEA2BC1E.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>Tumblr.Yeah project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Tumblr.Yeah</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Build Tumblr.Yeah</string>
-			<key>timeStartedRecording</key>
-			<real>559859787.56982994</real>
-			<key>timeStoppedRecording</key>
-			<real>559859790.05580401</real>
-			<key>title</key>
-			<string>Build Tumblr.Yeah</string>
-			<key>uniqueIdentifier</key>
-			<string>8A74FA83-8FDD-4143-96A6-228DFEA2BC1E</string>
-		</dict>
-		<key>8C3F727A-6A6D-4392-8D1C-8784A959F631</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>8C3F727A-6A6D-4392-8D1C-8784A959F631.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>Tumblr.Yeah project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Tumblr.Yeah</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Build Tumblr.Yeah</string>
-			<key>timeStartedRecording</key>
-			<real>559859584.48068404</real>
-			<key>timeStoppedRecording</key>
-			<real>559859589.85973203</real>
-			<key>title</key>
-			<string>Build Tumblr.Yeah</string>
-			<key>uniqueIdentifier</key>
-			<string>8C3F727A-6A6D-4392-8D1C-8784A959F631</string>
-		</dict>
-		<key>9795E70E-9165-4BB0-A8EB-9D50BEFE3335</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9795E70E-9165-4BB0-A8EB-9D50BEFE3335.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>Tumblr.Yeah project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Tumblr.Yeah</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Build Tumblr.Yeah</string>
-			<key>timeStartedRecording</key>
-			<real>559859812.175506</real>
-			<key>timeStoppedRecording</key>
-			<real>559859821.36001897</real>
-			<key>title</key>
-			<string>Build Tumblr.Yeah</string>
-			<key>uniqueIdentifier</key>
-			<string>9795E70E-9165-4BB0-A8EB-9D50BEFE3335</string>
-		</dict>
-		<key>EEBCA386-E156-43CB-9ADF-F5CD0BF1A1F6</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>EEBCA386-E156-43CB-9ADF-F5CD0BF1A1F6.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>Tumblr.Yeah project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Tumblr.Yeah</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Build Tumblr.Yeah</string>
-			<key>timeStartedRecording</key>
-			<real>559859930.52404904</real>
-			<key>timeStoppedRecording</key>
-			<real>559859931.47831595</real>
-			<key>title</key>
-			<string>Build Tumblr.Yeah</string>
-			<key>uniqueIdentifier</key>
-			<string>EEBCA386-E156-43CB-9ADF-F5CD0BF1A1F6</string>
-		</dict>
-		<key>FFB9A542-348D-4062-ABAB-F3F3378FAB71</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>FFB9A542-348D-4062-ABAB-F3F3378FAB71.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
-			<key>schemeIdentifier-containerName</key>
-			<string>Tumblr.Yeah project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>Tumblr.Yeah</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>0</integer>
-			<key>signature</key>
-			<string>Build Tumblr.Yeah</string>
-			<key>timeStartedRecording</key>
-			<real>559859668.268332</real>
-			<key>timeStoppedRecording</key>
-			<real>559859670.63608205</real>
-			<key>title</key>
-			<string>Build Tumblr.Yeah</string>
-			<key>uniqueIdentifier</key>
-			<string>FFB9A542-348D-4062-ABAB-F3F3378FAB71</string>
+			<string>F8253185-B80F-48DC-9604-336B09B56B1E</string>
 		</dict>
 	</dict>
 </dict>

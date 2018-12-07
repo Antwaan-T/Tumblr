@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "d13725e910161d52f445b4d8b513d8fb"
-build_time: [1538167012, 508469000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "cb2eb2133d90ee5b679fc24f281369e9"
+build_time: [1544159405, 474612000]
 inputs:
   "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/AFError.swift": [1537828535, 0]
   "/Users/user143130/Desktop/Tumblr.Yeah/Pods/Alamofire/Source/Alamofire.swift": [1537828535, 0]

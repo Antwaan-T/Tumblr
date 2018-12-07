@@ -1,6 +1,6 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "8cc3ffa66091f7baec79806f302fa6ca"
-build_time: [1538167015, 520997000]
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "c8c549bd716c3813a095b4722ab73fa2"
+build_time: [1544159412, 631391000]
 inputs:
   "/Users/user143130/Desktop/Tumblr.Yeah/Pods/AlamofireImage/Source/AFIError.swift": [1537828535, 0]
   "/Users/user143130/Desktop/Tumblr.Yeah/Pods/AlamofireImage/Source/Image.swift": [1537828535, 0]
