@@ -2,8 +2,8 @@
 //  LoginViewController.swift
 //  ParseChat
 //
-//  Created by Trustin Harris on 3/6/18.
-//  Copyright © 2018 Trustin Harris. All rights reserved.
+//  Created by Antwaan Thomas on 11/15/18.
+//  Copyright © 2018 Antwaan Thomas. All rights reserved.
 //
 
 import UIKit
@@ -32,7 +32,7 @@ class LoginViewController: UIViewController {
         
                 
         if (usernameLabel.text?.isEmpty)! || (passwordLabel.text?.isEmpty)! {
-            AlertControllers(title: "Warning!", message: "username or password cannot be empty")
+            AlertControllers(title: "Warning!", message: "username or password has to be filled out")
         }
  
         
@@ -55,7 +55,7 @@ class LoginViewController: UIViewController {
         newUser.password = passwordLabel.text
         
         if (usernameLabel.text?.isEmpty)! || (passwordLabel.text?.isEmpty)! {
-            AlertControllers(title: "Warning", message: "username or password cannot be empty")
+            AlertControllers(title: "Warning!", message: "username or password has to be filled out")
         }
         
         
